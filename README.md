@@ -18,3 +18,4 @@
 - working at a startup allows you to work on engineering end-to-end albeit around the clock. working at a larger more established tech company usually feels more like a cog in a huge assembly line. the former is not typically sustainable, but is an experience any engineer would benefit from.
 - there are no dumb questions, but do your appropriate research before asking.
 - this point has been mentioned before, but so many engineers have highlighted this that it deserves to be reiterated: explore, explore, explore. choosing a niche to delve deep into can happen later. breadth is incredibly important for new engineers to see a variety of engineering challenges.
+- (try to) be irreplaceable
