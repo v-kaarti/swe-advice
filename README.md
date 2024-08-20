@@ -1,8 +1,9 @@
-# a potpourri of career advice from (some of the best) software engineers
+# a potpourri of career advice from (some of the best) software engineers for new engineers
 #### in no particular order of importance:
 
-- go explore various (read: international) work locations. it's hard to travel once you settle down.
+- go explore various (read: international) work locations. it's hard to do so once you settle down.
 - don't go straight into startups as new grad (keep survivorship bias in mind when hearing about the ultra success stories). go to big names with excellent engineering first and work your way up switching teams internally if need be. then go explore startups that want you for your talent and background.
+- try as hard as you can to break into big tech companies early in your career, since the expectations are dsa and minimal sys design. this becomes much harder once interviews start focusing on higher level advanced sys design with more yoe.
 - try radically different teams e.g. product vs infra with an open mind. as a young engineer it's very easy to get sucked into doing what you know -> you never really find out what you like and don't like. plus cost of exploration scales inversely with yoe.
 - (over)generalized: product teams tend to have faster promos but a lower glass ceiling. infra teams have slower promos but a higher glass ceiling.
 - product teams tend to move much faster than infra. in product the focus is on pushing out a feature in a timely manner whereas infra is much more focused on future-proof engineering and excellent reliability. find out what you like.
@@ -14,4 +15,6 @@
 - a masters is not needed to be successful in modern industry.
 - a masters is needed to be successful in modern industry.
 - some companies have a top-down feel to engineering whereas others are bottom-up. typically larger established companies vs smaller startup-like companies. this is also team dependent.
-- working at a startup allows you to work on engineering end-to-end albeit around the clock. working at a larger more established tech company usually feels more like a cog in a huge assembly line. the former is not sustainable, but is an experience any engineer would benefit from.
+- working at a startup allows you to work on engineering end-to-end albeit around the clock. working at a larger more established tech company usually feels more like a cog in a huge assembly line. the former is not typically sustainable, but is an experience any engineer would benefit from.
+- there are no dumb questions, but do your appropriate research before asking.
+- this point has been mentioned before, but so many engineers have highlighted this that it deserved to be reiterated: explore, explore, explore. choosing a niche to delve deep into can happen later. breadth is incredibly important for new engineers to see a variety of engineering challenges.
