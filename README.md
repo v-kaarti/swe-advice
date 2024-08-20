@@ -4,7 +4,7 @@
 - go explore various (read: international) work locations. it's hard to do so once you settle down.
 - don't go straight into startups as new grad (keep survivorship bias in mind when hearing about the ultra success stories). go to big names with excellent engineering first and work your way up switching teams internally if need be. then go explore startups that want you for your talent and background.
 - try as hard as you can to break into big tech companies early in your career, since the expectations are dsa and minimal sys design. this becomes much harder once interviews start focusing on higher level advanced sys design with more yoe.
-- try radically different teams e.g. product vs infra with an open mind. as a young engineer it's very easy to get sucked into doing what you know -> you never really find out what you like and don't like. plus cost of exploration scales inversely with yoe.
+- check out radically different teams e.g. product vs infra with an open mind. as a young engineer it's very easy to get sucked into doing what you know -> you never really find out what you like and don't like. plus cost of exploration scales inversely with yoe.
 - (over)generalized: product teams tend to have faster promos but a glass ceiling. infra teams have slower promos with the benefit of better scaling.
 - product teams tend to move much faster than infra. in product the focus is on pushing out a feature in a timely manner whereas infra is much more focused on future-proof engineering and excellent reliability. find out what you like.
 - beware overvalued private companies and companies that don't have a clear target consumer.
