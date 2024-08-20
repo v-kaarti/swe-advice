@@ -1,5 +1,5 @@
 # a potpourri of career advice from (some of the best) software engineers for new engineers
-#### in no particular order of importance:
+#### in no particular order of importance, updated periodically:
 
 - go explore various (read: international) work locations. it's hard to do so once you settle down.
 - don't go straight into startups as new grad (keep survivorship bias in mind when hearing about the ultra success stories). go to big names with excellent engineering first and work your way up switching teams internally if need be. then go explore startups that want you for your talent and background.
