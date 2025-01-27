@@ -1,4 +1,4 @@
-# a potpourri of career advice from (some of the best) software engineers for new engineers
+# a potpourri of career advice from uber software engineers for new engineers
 #### in no particular order of importance, updated periodically:
 
 - go explore various (read: international) work locations. it's hard to do so once you settle down.
